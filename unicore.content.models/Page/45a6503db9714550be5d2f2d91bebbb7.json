@@ -6,12 +6,12 @@
   "primary_category": "8998d63a575943108f77caaf57686002", 
   "created_at": "2015-07-06T18:42:35+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-08T11:06:19.151288+00:00", 
+  "modified_at": "2015-07-09T12:02:49.042263+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,10 +20,10 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": "9cad978e41244eb69e281deab348ca77", 
+  "image": null, 
   "published": null, 
   "position": 4, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "how-avoid-malaria", 
   "uuid": "45a6503db9714550be5d2f2d91bebbb7"
 }
