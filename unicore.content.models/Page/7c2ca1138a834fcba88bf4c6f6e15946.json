@@ -6,12 +6,12 @@
   "primary_category": "8998d63a575943108f77caaf57686002", 
   "created_at": "2015-07-06T18:29:57+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-14T11:41:18.459874+00:00", 
+  "modified_at": "2015-08-20T06:05:12.844730+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "7ee459f9fafa43dab5e5c7b1b5259e6a", 
   "published": null, 
-  "position": 9, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-avoid-diarrhoea", 
   "uuid": "7c2ca1138a834fcba88bf4c6f6e15946"
