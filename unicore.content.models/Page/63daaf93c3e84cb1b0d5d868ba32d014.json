@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Globally, nearly half of under-5 child deaths every year are attributed to undernutrition, which weakens the body\u2019s resistance to illness. ", 
+  "description": "What every family and community has a right to know about nutrition\r\n", 
   "language": "eng_GB", 
   "title": "Good nutrition helps growth", 
   "primary_category": "69cfa562d4ee49c7b9c55e2873a690d5", 
   "created_at": "2015-07-06T18:19:32+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-20T12:44:40.243270+00:00", 
+  "modified_at": "2015-08-20T12:47:53.994158+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
