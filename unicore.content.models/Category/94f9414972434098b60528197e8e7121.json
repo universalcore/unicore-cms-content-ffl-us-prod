@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "94f9414972434098b60528197e8e7121", 
+  "language": "fre_FR", 
+  "title": "Ce qu\u2019il faut savoir sur les situations d\u2019urgence", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ce-quil-faut-savoir-sur-les-situations-durgence", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
