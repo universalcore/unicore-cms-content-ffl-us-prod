@@ -4,14 +4,14 @@
   "language": "fre_FR", 
   "title": "Qu\u2019est-ce que \u00ab Savoir pour Sauver \u00bb?", 
   "primary_category": "629bf38fddfe473bb7863c7b562601de", 
-  "created_at": "2015-09-05T08:53:32.746502+00:00", 
+  "created_at": "2015-09-05T08:53:32+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-05T08:53:32.746771+00:00", 
+  "modified_at": "2015-09-05T10:35:32.879482+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 14, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "quest-ce-que-savoir-pour-sauver", 
   "uuid": "ea0c665c8b204f20a6f6b6adbfa262c0"
