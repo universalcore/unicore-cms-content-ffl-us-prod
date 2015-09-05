@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "be4c0cd6e87e407db79d752120f43bba", 
   "language": "fre_FR", 
-  "title": "Ce qu\u2019il faut savoir pour \u00e9viter les troubles et les maladies", 
+  "title": "Eviter les troubles et les maladies", 
   "image": null, 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "ce-quil-faut-savoir-pour-eviter-les-troubles-et-les-maladies", 
