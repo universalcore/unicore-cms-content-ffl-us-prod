@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "405f123b6fd844a39ddc4b8c3d471691", 
+  "language": "swa_TZ", 
+  "title": "Ukweli kuhusu: Kutunza watoto kwa usalama", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ukweli-kuhusu-kutunza-watoto-kwa-usalama", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
