@@ -6,12 +6,12 @@
   "primary_category": "c315335143ab441a87b325f4e66ece02", 
   "created_at": "2015-09-15T06:45:48+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-21T10:46:24.316133+00:00", 
+  "modified_at": "2015-09-22T07:49:09.435695+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "2a7481ff619c4e02b10f7186c54b258b", 
   "published": null, 
-  "position": 4, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "uzazi-na-kupanga-uzazi", 
   "uuid": "7aaebb5835ec4986a1ba284554993a00"
