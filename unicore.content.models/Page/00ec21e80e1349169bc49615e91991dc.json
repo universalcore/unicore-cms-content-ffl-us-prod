@@ -4,14 +4,14 @@
   "language": "rus_RU", 
   "title": "\u00ab\u041a\u0430\u043a \u043f\u043e\u043c\u043e\u0447\u044c \u0434\u0435\u0442\u044f\u043c \u0440\u0430\u0441\u0442\u0438 \u0438 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c\u0441\u044f\u00bb", 
   "primary_category": "00381157c8fa4f03885b11711523937f", 
-  "created_at": "2015-09-25T12:52:44.037302+00:00", 
+  "created_at": "2015-09-25T12:52:44+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-25T12:52:44.037533+00:00", 
+  "modified_at": "2015-10-12T15:15:25.018507+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -22,9 +22,9 @@
   "source": null, 
   "featured": true, 
   "author_tags": [], 
-  "image": "342d13f4fa644c1f8d3b39b19a374607", 
+  "image": "dff09eb50b7d4f72ab14994b0f7148b5", 
   "published": null, 
-  "position": 0, 
+  "position": 18, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kak-pomoch-detyam-rasti-i-razvivatsya", 
   "uuid": "00ec21e80e1349169bc49615e91991dc"
