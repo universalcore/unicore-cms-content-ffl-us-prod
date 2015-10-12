@@ -6,12 +6,12 @@
   "primary_category": "be8c55f14d9741768720d1358eca8f34", 
   "created_at": "2015-09-25T14:06:56.677476+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-25T14:06:56.677689+00:00", 
+  "modified_at": "2015-10-12T15:48:16.083147+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "0f50ea134a0a4b46bcb9e8e8c57cb0cf", 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "bezgek-oorusunan-kantip-saktanuuga-bolot", 
   "uuid": "3e9d4c03ac6d43b5a50449648a3a4d2c"
