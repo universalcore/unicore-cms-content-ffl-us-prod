@@ -6,12 +6,12 @@
   "primary_category": "4593a927f4d84598a41d020cb6de0651", 
   "created_at": "2015-10-19T22:29:57+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-02-08T19:59:34.317995+00:00", 
+  "modified_at": "2016-02-08T20:31:38.103753+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "5d8810fb1ce94920a75c0e138ba8a771", 
   "published": null, 
-  "position": 10, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-evitar-la-diarrea", 
   "uuid": "9f4e6d4d746c42339ac0a5e5afe86dec"
