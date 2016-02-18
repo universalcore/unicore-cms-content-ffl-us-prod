@@ -6,12 +6,12 @@
   "primary_category": "897cd547da5d49e287f83e36670ecd51", 
   "created_at": "2015-09-14T10:03:45+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-02-18T08:24:15.513838+00:00", 
+  "modified_at": "2016-02-18T08:34:22.076643+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "7dd2bf317fa24533a97410394b0d38cc", 
   "published": null, 
-  "position": 98, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Staying-safe-from-injury", 
   "uuid": "45c8bec4c6274a3c957524b17c96814b"
