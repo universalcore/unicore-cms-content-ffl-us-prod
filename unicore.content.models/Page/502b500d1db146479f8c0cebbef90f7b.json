@@ -1,0 +1,33 @@
+{
+  "subtitle": "", 
+  "description": "Conselhos sobre a protec\u00e7\u00e3o da crian\u00e7a vulner\u00e1vel.", 
+  "language": "por_PT", 
+  "title": "Mensagens-chave sobre a protec\u00e7\u00e3o dos mais vulner\u00e1veis", 
+  "primary_category": "d12528a724ed4202b25cc908b483a31c", 
+  "created_at": "2015-09-22T12:28:14+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-09T12:23:59.722867+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "d915a38fa823486aaac623fed7d8af0b"
+  ], 
+  "id": null, 
+  "content": " - Na aus\u00eancia dos pais naturais, recomenda-se que as crian\u00e7as continuem em um ambiente familiar, mas com fam\u00edlias substitutas.\r\n - H\u00e1 in\u00fameros riscos para a crian\u00e7a que vive sem os cuidados dos pais, entre eles o abuso e a explora\u00e7\u00e3o sexual.\r\n - As fam\u00edlias chefiadas por crian\u00e7as n\u00e3o devem sofrer discrimina\u00e7\u00e3o e precisam do apoio de toda a comunidade.\r\n\r\n**Pr\u00e1ticas que devem ser mudadas**\r\n\r\n - As crian\u00e7as \u00f3rf\u00e3s sofrem muita discrimina\u00e7\u00e3o na comunidade.\r\n\r\n - Muitas vezes as crian\u00e7as \u00f3rf\u00e3s s\u00e3o v\u00edtimas de viol\u00eancia, n\u00e3o s\u00e3o registadas, n\u00e3o s\u00e3o levadas \u00e0 escola e t\u00eam maior risco de ficar na rua do que as outras.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [
+    "claudio"
+  ], 
+  "image": "f74c2f1e965e460192ef574f4e310a8b", 
+  "published": null, 
+  "position": 13, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mensagens-chave-sobre-proteccao-dos-mais-vulneraveis", 
+  "uuid": "502b500d1db146479f8c0cebbef90f7b"
+}

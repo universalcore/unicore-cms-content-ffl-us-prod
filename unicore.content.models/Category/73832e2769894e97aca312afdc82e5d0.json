@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "73832e2769894e97aca312afdc82e5d0", 
+  "language": "rus_RU", 
+  "title": "\u041e\u0431 \u0438\u0437\u0434\u0430\u043d\u0438\u0438 \"\u0424\u0430\u043a\u0442\u044b \u0434\u043b\u044f \u0436\u0438\u0437\u043d\u0438\"", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ob-izdanii-fakty-dlya-zhizni", 
+  "source": "d3af919d2b3d413a9252f0dcfc23381f", 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

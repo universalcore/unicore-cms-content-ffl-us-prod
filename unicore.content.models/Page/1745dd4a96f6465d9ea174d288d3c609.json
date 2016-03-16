@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Ce qu\u2019il faut savoir \u00e0 propos du paludisme", 
+  "language": "fre_FR", 
+  "title": "Comment \u00e9viter le paludisme", 
+  "primary_category": "be4c0cd6e87e407db79d752120f43bba", 
+  "created_at": "2015-09-05T09:59:29+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-17T12:20:24.966107+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "89389d24bfb24035bd0c4da68d0f17b1"
+  ], 
+  "id": null, 
+  "content": "**Le paludisme est une maladie grave transmise par les piq\u00fbres de moustiques, et l\u2019une des principales causes de d\u00e9c\u00e8s, de maladie et de faible croissance et d\u00e9veloppement chez les jeunes enfants.**\r\n\r\n**Le paludisme est particuli\u00e8rement dangereux pour la femme enceinte.** Des millions de femmes enceintes sont expos\u00e9es au paludisme chaque ann\u00e9e. Le paludisme pendant la grossesse contribue \u00e0 l\u2019insuffisance pond\u00e9rale \u00e0 la naissance des b\u00e9b\u00e9s dans les r\u00e9gions end\u00e9miques, \u00e0 l\u2019an\u00e9mie, \u00e0 la mortinatalit\u00e9 et m\u00eame au d\u00e9c\u00e8s de la m\u00e8re.\r\n\r\n**Le paludisme est transmis par la piq\u00fbre du moustique Anoph\u00e8le. Le moustique transmet le parasite du paludisme, le plasmodium, d\u2019une personne \u00e0 l\u2019autre.** Les personnes contamin\u00e9es sont tr\u00e8s malades, avec une fi\u00e8vre \u00e9lev\u00e9e, la diarrh\u00e9e, des vomissements, des maux de t\u00eate, des frissons et des sympt\u00f4mes semblables \u00e0 ceux de la grippe. La maladie peut empirer rapidement surtout chez les enfants. Les enfants de moins de 5 ans sont les plus expos\u00e9s au paludisme car leur syst\u00e8me immunitaire est encore trop faible pour combattre la maladie.\r\n\r\n**De nombreuses vies peuvent \u00eatre sauv\u00e9es en pr\u00e9venant et en traitant le paludisme d\u00e8s son apparition.** Les enfants et les membres de leur famille ont droit \u00e0 des soins m\u00e9dicaux de qualit\u00e9 pour obtenir un traitement imm\u00e9diat et efficace en cas de paludisme et pour pr\u00e9venir la maladie.\r\n \r\n**Ce qu\u2019il faut savoir sur le paludisme :**\r\n\r\n1.     **Le paludisme est transmis par des piq\u00fbres de moustiques.** Le meilleur moyen de pr\u00e9venir les piq\u00fbres de moustiques est de dormir sous une moustiquaire trait\u00e9e avec un insecticide.\r\n\r\n2.     **Partout o\u00f9 le paludisme s\u00e9vit, les enfants sont en danger.** Il importe donc qu\u2019un agent de sant\u00e9 qualifi\u00e9 examine imm\u00e9diatement tout enfant qui a de la fi\u00e8vre. Ce dernier doit suivre un traitement antipaludique appropri\u00e9 d\u00e8s que le paludisme est diagnostiqu\u00e9. L\u2019OMS recommande une combinaison de th\u00e9rapeutiques \u00e0 base d\u2019art\u00e9misinine (CTA).\r\n\r\n3.     **Le paludisme est tr\u00e8s dangereux pour la femme enceinte.** Partout o\u00f9 il est pr\u00e9sent, il importe que la femme enceinte le pr\u00e9vienne avec des comprim\u00e9s antipaludiques prescrits par un agent de sant\u00e9 et en dormant sous une moustiquaire impr\u00e9gn\u00e9e d\u2019insecticide.\r\n\r\n4.     **Tout enfant souffrant du paludisme ou en convalescence a besoin de boire et manger plus que d\u2019habitude.**\r\n \r\nArticle suivant :", 
+  "source": "45a6503db9714550be5d2f2d91bebbb7", 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "766671aed8904643a8c5178af34e9abd", 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-eviter-le-paludisme", 
+  "uuid": "1745dd4a96f6465d9ea174d288d3c609"
+}

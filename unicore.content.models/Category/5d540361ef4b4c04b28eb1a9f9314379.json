@@ -1,0 +1,20 @@
+{
+  "subtitle": "Facts for: Keeping children safe", 
+  "uuid": "5d540361ef4b4c04b28eb1a9f9314379", 
+  "language": "spa_ES", 
+  "title": "Informaci\u00f3n para: Mantener a los ni\u00f1os y ni\u00f1as seguros", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "informacion-para-mantener-los-ninos-y-ninas-seguros", 
+  "source": "5ff634b75ff84550bfad455f00984503", 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

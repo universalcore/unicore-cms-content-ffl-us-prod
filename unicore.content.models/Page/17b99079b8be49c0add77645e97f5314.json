@@ -1,0 +1,33 @@
+{
+  "subtitle": "", 
+  "description": "Conselhos sobre a alimenta\u00e7\u00e3o do beb\u00e9 e crian\u00e7a pequena.", 
+  "language": "por_PT", 
+  "title": "Alimenta\u00e7\u00e3o do beb\u00e9 e crian\u00e7a pequena", 
+  "primary_category": "034dc3021d1b4855a2d53f7b02184c56", 
+  "created_at": "2015-09-22T12:20:37+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-09T12:23:56.816701+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "d8aafd5e97d643f59337c3e79dd81015"
+  ], 
+  "id": null, 
+  "content": "Em Mo\u00e7ambique, metade das crian\u00e7as menores de 5 anos sofrem desnutri\u00e7\u00e3o cr\u00f3nica. O leite materno \u00e9 fundamental para o desenvolvimento dos beb\u00e9s. O leite materno cont\u00e9m anticorpos que ajudam a proteger o beb\u00e9 contra as doen\u00e7as. Por outro lado, o leito materno est\u00e1 sempre pronto, n\u00e3o sendo necess\u00e1rio preparar. O acto de amamentar aumenta a liga\u00e7\u00e3o afectiva entre a m\u00e3e e o filho e estimula o desenvolvimento da crian\u00e7a. \r\n\r\nO in\u00edcio da amamenta\u00e7\u00e3o dentro da primeira meia hora ap\u00f3s o parto estimula a produ\u00e7\u00e3o do leite.\r\n\r\nOs beb\u00e9s que s\u00e3o alimentados s\u00f3 com o leite materno nos primeiros 6 meses de vida crescem melhor e s\u00e3o mais saud\u00e1veis do que os beb\u00e9s que s\u00e3o alimentados com leite artificial.\r\n\r\nA partir dos 6 meses de vida, para al\u00e9m do aleitamento materno, a crian\u00e7a precisa de outros alimentos para satisfazer as suas necessidades nutricionais crescentes. Os alimentos devem ser introduzidos de forma gradual e a amamenta\u00e7\u00e3o deve continuar at\u00e9 aos 2 anos ou mais. \r\n\r\nNo caso de mulheres infectadas pelo HIV, faz-se tamb\u00e9m a pr\u00e1tica do aleitamento materno exclusivo nos primeiros 6 meses de vida do beb\u00e9, com a introdu\u00e7\u00e3o de alimenta\u00e7\u00e3o complementar a partir dos 6 meses e continua\u00e7\u00e3o da amamenta\u00e7\u00e3o at\u00e9 aos 12 meses de vida, e ao mesmo tempo d\u00e1-se medicamentos anti-retrovirais \u00e0 m\u00e3e e/ou beb\u00e9 conforme a recomenda\u00e7\u00e3o dos profissionais de sa\u00fade. Isto protege o beb\u00e9 contra a infec\u00e7\u00e3o pelo v\u00edrus.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [
+    "claudio"
+  ], 
+  "image": "41077c509a1e4c87beb45227151e5ea4", 
+  "published": null, 
+  "position": 28, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "alimentacao-do-bebe-e-crianca-pequena", 
+  "uuid": "17b99079b8be49c0add77645e97f5314"
+}

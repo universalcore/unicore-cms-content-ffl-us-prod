@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Disposer des bonnes informations permet de sauver des vies, d\u2019am\u00e9liorer la sant\u00e9 et de r\u00e9duire les souffrances.", 
+  "language": "fre_FR", 
+  "title": "Qu\u2019est-ce que \u00ab Savoir pour Sauver \u00bb?", 
+  "primary_category": "629bf38fddfe473bb7863c7b562601de", 
+  "created_at": "2015-09-05T08:53:32+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-17T11:55:57.732512+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "49bc9da44054460dac821eaa654bdc13"
+  ], 
+  "id": null, 
+  "content": "Disposer des bonnes informations permet de sauver des vies, d\u2019am\u00e9liorer la sant\u00e9 et de r\u00e9duire les souffrances. Les connaissances permettent, pour un co\u00fbt faible, de renforcer la pr\u00e9vention, les traitements et les mesures de protection. Mais il faut \u00eatre s\u00fbr que les connaissances parviennent bien aux parents, au personnel soignant et aux communaut\u00e9s : la premi\u00e8re ligne de d\u00e9fense pour prot\u00e9ger les enfants contre la maladie et la souffrance. **Savoir pour Sauver** pr\u00e9sente des informations essentielles sur la mani\u00e8re de pr\u00e9venir les d\u00e9c\u00e8s maternels et infantiles, les maladies, les accidents et la violence. **Savoir pour Sauver** est le fruit d\u2019une collaboration entre l\u2019UNICEF, l\u2019OMS, l\u2019UNESCO, UNFPA, le PNUD, ONUSIDA, le PAM et la Banque mondiale.\r\n\r\nCette r\u00e9\u00e9dition de **Savoir pour Sauver** a \u00e9t\u00e9 l\u00e9g\u00e8rement adapt\u00e9e \u00e0 partir d\u2019une version informatique d\u00e9taill\u00e9e produite en RDC par l\u2019UNICEF sur le site  [www.ponabana.com.][2]\r\n \r\nSavoir pour Sauver vise \u00e0 fournir aux familles et aux communaut\u00e9s les informations dont elles ont besoin pour Sauver et am\u00e9liorer la vie de leurs enfants. Les parents, les grands-parents, les autres prestataires de soins et les jeunes peuvent se r\u00e9f\u00e9rer \u00e0 cette source d\u2019informations pratiques pour trouver des r\u00e9ponses \u00e0 leurs questions concernant la grossesse et la mani\u00e8re de donner aux enfants le meilleur d\u00e9part possible dans la vie. La difficult\u00e9 consiste \u00e0 s\u2019assurer que tout le monde conna\u00eet et comprend ces informations et tient \u00e0 les mettre en pratique.\r\n\r\n[Lire la version compl\u00e8te de Savoir pour Sauver.][1]\r\n\r\nArticle suivant :\r\n\r\n  [1]: http://www.factsforlifeglobal.org/resources/factsforlife-en-full.pdf\r\n  [2]: http://www.ponabana.com.", 
+  "source": "801b4de50dbc4be49959aa1c33859699", 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "quest-ce-que-savoir-pour-sauver", 
+  "uuid": "ea0c665c8b204f20a6f6b6adbfa262c0"
+}

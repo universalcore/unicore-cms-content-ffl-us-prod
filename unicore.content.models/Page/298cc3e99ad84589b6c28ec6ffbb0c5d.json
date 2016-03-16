@@ -1,0 +1,33 @@
+{
+  "subtitle": "", 
+  "description": "Conselhos sobre a protec\u00e7\u00e3o da crian\u00e7a vulner\u00e1vel.", 
+  "language": "por_PT", 
+  "title": "Protec\u00e7\u00e3o dos mais vulner\u00e1veis", 
+  "primary_category": "d12528a724ed4202b25cc908b483a31c", 
+  "created_at": "2015-09-22T12:27:18+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-09T12:23:57.067964+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "502b500d1db146479f8c0cebbef90f7b"
+  ], 
+  "id": null, 
+  "content": "Em Mo\u00e7ambique h\u00e1 cerca de 2 milh\u00f5es de crian\u00e7as \u00f3rf\u00e3s de um ou de ambos pais. Em muitos casos, as crian\u00e7as \u00f3rf\u00e3s vivem em centros de acolhimento, com os irm\u00e3os ou parentes distantes e, podem estar sujeitas ao abuso, viol\u00eancia e abandono. Al\u00e9m disso, a maioria destas crian\u00e7as perderam os pais devido ao HIV/SIDA e por isso s\u00e3o discriminadas nas comunidades em que vivem. \r\n\r\nAs crian\u00e7as \u00f3rf\u00e3s enfrentam v\u00e1rias dificuldades e riscos, como a explora\u00e7\u00e3o e abuso sexual, trabalho infantil for\u00e7ado, in\u00edcio precoce das rela\u00e7\u00f5es sexuais, fraca frequ\u00eancia e desempenho escolar e prec\u00e1ria sa\u00fade f\u00edsica, emocional e mental. As crian\u00e7as vivendo em fam\u00edlias chefiadas por crian\u00e7as encontram-se em situa\u00e7\u00e3o muito dif\u00edcil e prec\u00e1ria e, portanto, \u00e9 importante que a comunidade apoie.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [
+    "claudio"
+  ], 
+  "image": "f1ab7268ad65492fbaba6fd8ff8309e1", 
+  "published": null, 
+  "position": 32, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "proteccao-dos-mais-vulneraveis", 
+  "uuid": "298cc3e99ad84589b6c28ec6ffbb0c5d"
+}

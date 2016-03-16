@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "2d63582baebc4b889a50b8abd5b872a8", 
+  "language": "por_PT", 
+  "title": "Factos sobre a sa\u00fade materno-infantil", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "factos-sobre-saude-materno-infantil", 
+  "source": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

@@ -1,0 +1,20 @@
+{
+  "subtitle": "Facts for: Emergencies", 
+  "uuid": "99723b7643c84e7498984a9ca6c49fb7", 
+  "language": "spa_ES", 
+  "title": "Informaci\u00f3n para: Las emergencias", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "informacion-para-las-emergencias", 
+  "source": "332c8d8134fa4644ae8f19bd6e47e6ae", 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

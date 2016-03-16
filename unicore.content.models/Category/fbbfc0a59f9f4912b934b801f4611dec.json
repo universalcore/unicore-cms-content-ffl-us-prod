@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "fbbfc0a59f9f4912b934b801f4611dec", 
+  "language": "ara_AE", 
+  "title": "\u062d\u0642\u0627\u0626\u0642 \u0636\u0631\u0648\u0631\u064a\u0629 \u0644\u0644\u0623\u0645\u0647\u0627\u062a \u0627\u0644\u062c\u062f\u062f", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Facts-for-New-moms", 
+  "source": "69cfa562d4ee49c7b9c55e2873a690d5", 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

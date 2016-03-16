@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Pourquoi attendre pour avoir des enfants ?", 
+  "language": "fre_FR", 
+  "title": "Naissance et planification familiale", 
+  "primary_category": "8160ee1248364ec99735a690c50e4405", 
+  "created_at": "2015-09-05T10:34:49+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-17T12:00:10.953143+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "037c02f8634d4ca9b581c37cc799dbce"
+  ], 
+  "id": null, 
+  "content": "**La planification familiale est l\u2019un des moyens les plus efficaces d\u2019am\u00e9liorer la sant\u00e9 et la survie des femmes et des enfants.**\r\n\r\nUn nombre trop \u00e9lev\u00e9 de naissances, des naissances trop fr\u00e9quentes et des naissances chez des m\u00e8res de moins de 20 ans peuvent mettre en danger la vie des m\u00e8res et de leurs nourrissons.\r\n\r\n**Pourquoi attendre pour avoir des enfants ?**\r\n\r\n1.     **La grossesse avant l\u2019\u00e2ge de 20 ans accro\u00eet les risques pour la sant\u00e9** tant pour la m\u00e8re que pour son b\u00e9b\u00e9.\r\n\r\n2.     **Pour prot\u00e9ger la sant\u00e9 de la m\u00e8re et de l\u2019enfant, il vaut mieux que la femme attende** que son dernier enfant soit \u00e2g\u00e9 de 2 \u00e0 3 ans avant d\u2019entreprendre une nouvelle grossesse.\r\n\r\n3.     **Les risques pour la sant\u00e9 li\u00e9s \u00e0 la grossesse et \u00e0 l\u2019accouchement augmentent** lorsqu\u2019une femme a eu de nombreuses grossesses.\r\n\r\n4.     **Les services de planification familiale offrent aux hommes et aux femmes des informations et des \u00e9tapes \u00e0 suivre pour planifier leur famille** : le meilleur moment pour commencer, le nombre optimal d\u2019enfants \u00e0 avoir, le meilleur espacement entre les naissances et le meilleur moment pour mettre fin \u00e0 la reproduction. Il existe de nombreuses m\u00e9thodes sans danger et efficaces de planification des naissances, permettant d\u2019\u00e9viter les grossesses.\r\n\r\n5.     **La responsabilit\u00e9 de la planification de la famille incombe aux hommes comme aux femmes, y compris aux adolescents.** Les deux partenaires doivent \u00eatre au courant des avantages pour la sant\u00e9 de la planification familiale et des options disponibles.\r\n\r\nArticle suivant :", 
+  "source": "3f41fccf34264514a5b5edac753dcf53", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "e78d5977324248d78572b28490ee4834", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "naissance-et-planification-familiale", 
+  "uuid": "49bc9da44054460dac821eaa654bdc13"
+}

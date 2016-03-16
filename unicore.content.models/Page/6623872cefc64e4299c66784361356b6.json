@@ -1,0 +1,33 @@
+{
+  "subtitle": "", 
+  "description": "Conselhos sobre a import\u00e2ncia da fam\u00edlia no desenvolvimento da crian\u00e7a.", 
+  "language": "por_PT", 
+  "title": "Mensagens-chave sobre a import\u00e2ncia da fam\u00edlia", 
+  "primary_category": "d12528a724ed4202b25cc908b483a31c", 
+  "created_at": "2015-09-22T12:26:48+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-09T12:23:59.856403+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "298cc3e99ad84589b6c28ec6ffbb0c5d"
+  ], 
+  "id": null, 
+  "content": " - A fam\u00edlia \u00e9 muito importante para a protec\u00e7\u00e3o da crian\u00e7a. \u00c9 na fam\u00edlia que a crian\u00e7a busca conhecimentos e seguran\u00e7a.\r\n - Incentivar as crian\u00e7as a brincar ajuda-as a aprender e a se desenvolver. Tanto as meninas como os meninos devem entrar para a escola na idade adequada. (6 anos)\r\n - Os meninos e as meninas t\u00eam a mesma capacidade de aprendizagem e a mesma necessidade de carinho, aten\u00e7\u00e3o e aprova\u00e7\u00e3o.\r\n - Falta de boa alimenta\u00e7\u00e3o, carinho e interac\u00e7\u00e3o com o beb\u00e9 desde o in\u00edcio da gravidez at\u00e9 o beb\u00e9 completar 2 anos de idade pode causar danos graves e permanentes ao c\u00e9rebro da crian\u00e7a.\r\n - As necessidades da m\u00e3e e das crian\u00e7as t\u00eam que ser prioridade dentro da fam\u00edlia (acesso \u00e0 sa\u00fade, alimentos, educa\u00e7\u00e3o, recrea\u00e7\u00e3o e protec\u00e7\u00e3o contra abuso e discrimina\u00e7\u00e3o).\r\n - \u00c9 importante que os pais sejam bons exemplos para os seus filhos, pois, as crian\u00e7as costumam imitar o comportamento dos adultos.\r\n\r\n**Pr\u00e1ticas que devem ser mudadas**\r\n\r\n - Muitos pais deixam os beb\u00e9s ou crian\u00e7as pequenas ao cuidado de outras crian\u00e7as tamb\u00e9m pequenas.\r\n\r\n - Muitos pais e m\u00e3es n\u00e3o d\u00e3o \u00e0s meninas a mesma aten\u00e7\u00e3o, carinho, amor e cuidados que os meninos.\r\n\r\n - H\u00e1 fam\u00edlias que acham que as meninas devem trabalhar mais em casa ou na machamba em rela\u00e7\u00e3o aos meninos.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [
+    "claudio"
+  ], 
+  "image": "39a728e9e7cf44f286defafba59f2442", 
+  "published": null, 
+  "position": 10, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mensagens-chave-sobre-importancia-da-familia", 
+  "uuid": "6623872cefc64e4299c66784361356b6"
+}

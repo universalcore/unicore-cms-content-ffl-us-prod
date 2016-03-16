@@ -1,0 +1,33 @@
+{
+  "subtitle": "", 
+  "description": "Conselhos sobre o HIV/SIDA.", 
+  "language": "por_PT", 
+  "title": "Mensagens-chave sobre o HIV/SIDA", 
+  "primary_category": "2d63582baebc4b889a50b8abd5b872a8", 
+  "created_at": "2015-09-22T12:17:52+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-09T12:23:58.588694+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "17b99079b8be49c0add77645e97f5314"
+  ], 
+  "id": null, 
+  "content": " - Todas as mulheres gr\u00e1vidas devem ir \u00e0 consulta pr\u00e9-natal, pois, al\u00e9m de outros servi\u00e7os, \u00e9 oferecido o teste para o HIV, e no caso do resultado ser positivo, a mulher recebe medicamentos para evitar a transmiss\u00e3o do v\u00edrus ao seu beb\u00e9, e este quando nasce tamb\u00e9m recebe medicamentos.\r\n - A \u00fanica forma de saber se uma pessoa tem o HIV \u00e9 atrav\u00e9s do teste do HIV. Se for HIV negativo, repita o teste de 6 em 6 meses.\r\n - Tenha um \u00fanico parceiro sexual. Use o preservativo se o seu parceiro for HIV positivo ou se n\u00e3o souber o seu estado.\r\n - A circuncis\u00e3o masculina \u00e9 uma pr\u00e1tica que pode reduzir o risco de espalhar e contrair o HIV se associada aos outros comportamentos de preven\u00e7\u00e3o.\r\n - Se for ao curandeiro, cada membro da fam\u00edlia deve ter a  sua pr\u00f3pria l\u00e2mina para as vacinas tradicionais.\r\n - Uma pessoa n\u00e3o apanha o v\u00edrus do HIV por abra\u00e7ar, apertar a m\u00e3o, beijar, sentar, conversar ou trabalhar com algu\u00e9m seropositivo. A discrimina\u00e7\u00e3o \u00e9 fruto da falta de informa\u00e7\u00e3o.\r\n\r\n**Pr\u00e1ticas que devem ser mudadas**\r\n\r\n - Ter v\u00e1rios parceiros sexuais no mesmo per\u00edodo de tempo \u00e9 considerado como algo normal e natural para alguns homens e mulheres.\r\n\r\n - H\u00e1 homens que acham que ter rela\u00e7\u00f5es sexuais com beb\u00e9s e meninas curam o HIV.\r\n\r\n - Muitos homens alegam que se o resultado da mulher for negativo, ent\u00e3o ele tamb\u00e9m \u00e9 negativo.\r\n\r\n - Em muitas comunidades, as fam\u00edlias v\u00e3o ao curandeiro ou m\u00e9dico tradicional para receber \u201cvacinas tradicionais\u201d ou levam as crian\u00e7as para serem circuncidadas.\r\n\r\n - Algumas pessoas acreditam que podem apanhar o HIV por conviverem (partilhar o mesmo prato, cumprimentar, etc) com algu\u00e9m infectado.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [
+    "claudio"
+  ], 
+  "image": "46c5d07a4797440090b2b561fa9cf277", 
+  "published": null, 
+  "position": 25, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mensagens-chave-sobre-o-hivsida", 
+  "uuid": "a2d34be7289a4c00a3f3fa629016a564"
+}

@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "La informaci\u00f3n puede salvar vidas, mejorar la salud y reducir el sufrimiento.", 
+  "language": "spa_ES", 
+  "title": "\u00bfQu\u00e9 es \u201cPara la vida\u201d?", 
+  "primary_category": "9ef03d5111a1410ab03e3329c4d7912a", 
+  "created_at": "2015-10-19T20:16:16+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-17T08:46:06.522644+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "4002120c43f74202affb762c779f4de0"
+  ], 
+  "id": null, 
+  "content": "La informaci\u00f3n puede salvar vidas, mejorar la salud y reducir el sufrimiento. El conocimiento puede ampliar la cobertura de las medidas de prevenci\u00f3n, tratamiento y protecci\u00f3n de bajo costo. El reto es tener seguridad de que el conocimiento sea compartido con los padres y madres, cuidadores y comunidades: la primera l\u00ednea de defensa para proteger a los ni\u00f1os y ni\u00f1as contra la enfermedad y el da\u00f1o. **Para la vida** presenta informaci\u00f3n esencial acerca de c\u00f3mo prevenir la muerte infantil y materna, la enfermedad, las lesiones y la violencia. **Para la vida** fue creado conjuntamente por UNICEF, la OMS, UNESCO, el UNFPA, el PNUD, ONUSIDA, el PMA y el Banco Mundial.\r\n\r\nEsta versi\u00f3n de **Para la vida** ha sido adaptada ligeramente de la versi\u00f3n completa y f\u00e1cil de leer producida por Comunicaci\u00f3n Digital de UNICEF DRC que se encuentra en [www.ponabana.com][1].\r\n\r\n *Para la vida pretende brindar a las familias y comunidades la informaci\u00f3n que requieren para salvar y mejorar las vidas de los ni\u00f1os y ni\u00f1as. Los padres y madres, abuelos y abuelas, otros cuidadores y j\u00f3venes pueden consultar esta fuente pr\u00e1ctica de informaci\u00f3n para buscar respuestas a sus preguntas acerca del parto y acerca de c\u00f3mo darles a los ni\u00f1os y ni\u00f1as el mejor comienzo en la vida. El reto es asegurar que todos y todas conozcan y entiendan esta informaci\u00f3n y est\u00e9n motivados a ponerla en pr\u00e1ctica.*\r\n\r\n[Lea Para la vida completo][2] (PDF)\r\n\r\nArt\u00edculo siguiente:\r\n\r\n\r\n  [1]: http://www.ponabana.com\r\n  [2]: http://www.factsforlifeglobal.org/resources/factsforlife-en-full.pdf", 
+  "source": "801b4de50dbc4be49959aa1c33859699", 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "que-es-para-la-vida", 
+  "uuid": "bc0e41e090254072a52c191c253cd822"
+}

@@ -1,0 +1,33 @@
+{
+  "subtitle": "", 
+  "description": "Conselhos sobre a sa\u00fade do rec\u00e9m-nascido.", 
+  "language": "por_PT", 
+  "title": "Mensagens-chave sobre a sa\u00fade do rec\u00e9m-nascido", 
+  "primary_category": "2d63582baebc4b889a50b8abd5b872a8", 
+  "created_at": "2015-09-22T12:05:15+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-09T12:23:58.734379+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "380e97793e454ed6b4cc0806105ee509"
+  ], 
+  "id": null, 
+  "content": " - Iniciar o aleitamento materno na primeira hora ap\u00f3s o parto e dar s\u00f3 e s\u00f3 o leite do peito nos primeiros 6 meses de vida protege o beb\u00e9 contra as doen\u00e7as.\r\n - Em caso de sinal de perigo a fam\u00edlia deve levar imediatamente o rec\u00e9m-nascido \u00e0 Unidade Sanit\u00e1ria.\r\n - O cord\u00e3o umbilical cai por si s\u00f3 at\u00e9 ao final da primeira semana de vida sem ser necess\u00e1rio aplicar algum produto.\r\n - No momento do parto, deve-se usar material esterilizado (desinfectado) para o corte do cord\u00e3o umbilical.\r\n - Os beb\u00e9s que nascem com baixo peso devem ser colocados na posi\u00e7\u00e3o vertical no peito da m\u00e3e (ou pai), ficando em contacto directo com a pele da m\u00e3e, isto ajuda a manter a temperatura do corpo do beb\u00e9, estimula o aleitamento materno e aumenta o v\u00ednculo afectivo entre o beb\u00e9 e a m\u00e3e.\r\n\r\n**Pr\u00e1ticas que devem ser mudadas**\r\n\r\n - Algumas pessoas acreditam que colocar a\u00e7\u00facar, lama ou \u00f3leo de cozinha no umbigo ajuda a secar o mesmo.\r\n\r\n - Algumas pessoas n\u00e3o amamentam o beb\u00e9 logo ap\u00f3s o parto, pois acreditam que o colostro \u00e9 leite sujo e n\u00e3o deve ser dado \u00e0 crian\u00e7a.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [
+    "claudio"
+  ], 
+  "image": "803e82112aa84f2d9f9bb1f591de6236", 
+  "published": null, 
+  "position": 16, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mensagens-chave-sobre-saude-do-recem-nascido", 
+  "uuid": "b8cfc7dfa0464db9813ffeef89d0efdd"
+}

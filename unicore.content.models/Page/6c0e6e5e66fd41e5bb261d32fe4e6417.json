@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Datos a saber acerca del paludismo", 
+  "language": "spa_ES", 
+  "title": "C\u00f3mo evitar el paludismo", 
+  "primary_category": "4593a927f4d84598a41d020cb6de0651", 
+  "created_at": "2015-10-19T23:03:27+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-17T09:51:18.528063+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "f3bcb607e41d487db3f3d484081bbe72"
+  ], 
+  "id": null, 
+  "content": "**El paludismo es una enfermedad grave propagada por las picaduras de zancudo (mosquito), y es una importante causa de muerte, de enfermedad y de crecimiento y desarrollo deficientes entre los ni\u00f1os y ni\u00f1as peque\u00f1os.**\r\n \r\n**El paludismo es particularmente peligroso para las mujeres embarazadas.** Millones de mujeres embarazadas son expuestas al paludismo cada a\u00f1o. El paludismo durante el embarazo contribuye a beb\u00e9s con bajo peso al nacer en las \u00e1reas end\u00e9micas, y adem\u00e1s a la anemia, al parto de beb\u00e9 muerto y hasta a la muerte materna. \r\n\r\n**El paludismo es propagado por la picadura de un zancudo anofeles. El zancudo transfiere el par\u00e1sito del paludismo, el Plasmodium, de una persona a otra.** Las personas se enferman gravemente, con fiebre alta, diarrea, v\u00f3mito, dolor de cabeza, escalofr\u00edos y enfermedad parecida a la influenza. La enfermedad puede empeorar r\u00e1pidamente, especialmente en los ni\u00f1os y ni\u00f1as. Los ni\u00f1os y ni\u00f1as menores de cinco a\u00f1os son los m\u00e1s susceptibles al paludismo debido a que tienen muy poca inmunidad adquirida para resistirse a \u00e9l. \r\n \r\n**Se pueden salvar muchas vidas al prevenir el paludismo y tratarlo tempranamente.** Los ni\u00f1os y ni\u00f1as y los miembros de sus familias tienen derecho a atenci\u00f3n en salud de calidad para el pronto y efectivo tratamiento y prevenci\u00f3n del paludismo.\r\n \r\n**Datos a saber acerca del paludismo:**  \r\n\r\n**1. El paludismo es propagado por la picadura de algunos zancudos.** Dormir bajo un mosquitero tratado con insecticida es la mejor manera de prevenir las picaduras de zancudo.  \r\n\r\n**2. Si el paludismo est\u00e1 presente, los ni\u00f1os y ni\u00f1as est\u00e1n en peligro.** Un ni\u00f1o o ni\u00f1a con fiebre debe ser examinado de inmediato por un trabajador de la salud capacitado y recibir un tratamiento apropiado tan pronto sea posible si se le diagnostica el paludismo. Las terapias combinadas basadas en la artemisinina (TCA) son recomendadas por la OMS para el tratamiento del paludismo.  \r\n\r\n**3. El paludismo es muy peligroso para las mujeres embarazadas.** Dondequiera sea com\u00fan el paludismo, ellas deben prevenir el paludismo tomando tabletas antipal\u00fadicas recomendadas por un trabajador de la salud capacitado y durmiendo bajo un mosquitero tratado con insecticida.  \r\n\r\n**4. Un ni\u00f1o o ni\u00f1a que padece o se recupera del paludismo necesita bastante l\u00edquido y alimento.**\r\n \r\nArt\u00edculo siguiente: ", 
+  "source": "45a6503db9714550be5d2f2d91bebbb7", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "435368567f554a079a01de25bd6b560f", 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "como-evitar-el-paludismo", 
+  "uuid": "6c0e6e5e66fd41e5bb261d32fe4e6417"
+}

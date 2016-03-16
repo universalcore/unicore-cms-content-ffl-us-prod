@@ -1,0 +1,33 @@
+{
+  "subtitle": "", 
+  "description": "Conselhos sobre a mal\u00e1ria.", 
+  "language": "por_PT", 
+  "title": "Preven\u00e7\u00e3o e tratamento da mal\u00e1ria", 
+  "primary_category": "2d63582baebc4b889a50b8abd5b872a8", 
+  "created_at": "2015-09-22T12:10:32+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-09T12:23:58.346449+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "30d20eda6dd34decb064d65d95ecfa2c"
+  ], 
+  "id": null, 
+  "content": "A mal\u00e1ria \u00e9 transmitida pela picada do mosquito e \u00e9 uma das principais causas de morte de crian\u00e7as menores de 5 anos em Mo\u00e7ambique. Os mosquitos que transmitem a mal\u00e1ria levam o micr\u00f3bio que est\u00e1 no sangue duma pessoa doente para outra pessoa atrav\u00e9s da picada. Os mosquitos que transmitem a mal\u00e1ria picam principalmente \u00e0 noite. O n\u00famero de mosquitos aumenta durante a \u00e9poca chuvosa porque precisam da \u00e1gua parada para se reproduzir. Os mosquitos colocam os seus ovos nos charcos ou pequenas colec\u00e7\u00f5es de \u00e1gua e assim nascem novos mosquitos. Qualquer pessoa pode apanhar a mal\u00e1ria, mas, ela afecta mais as crian\u00e7as menores de 5 anos, as mulheres gr\u00e1vidas e pessoas com HIV/SIDA, pois, o corpo destas pessoas tem poucas for\u00e7as para se defender das doen\u00e7as.\r\n\r\nOs principais sinais e sintomas s\u00e3o: corpo quente, arrepios de frio, dor de cabe\u00e7a, dores nas articula\u00e7\u00f5es e em todo o corpo. As crian\u00e7as ficam quentes, perdem o apetite e deixam de brincar.\r\n\r\nA mal\u00e1ria requer um tratamento r\u00e1pido com medicamentos pr\u00f3prios e na quantidade exacta. Quando n\u00e3o tratada pode manifestar-se com convuls\u00f5es que muitas vezes \u00e9 confundida com a \u201cdoen\u00e7a da lua\u201d (epilepsia). A diferen\u00e7a entre as convuls\u00f5es da mal\u00e1ria e da \u201cdoen\u00e7a da lua\u201d \u00e9 que na mal\u00e1ria as convuls\u00f5es afectam mais as crian\u00e7as pequenas e s\u00e3o acompanhadas de corpo quente enquanto na \u201cdoen\u00e7a da lua\u201d as convuls\u00f5es afectam mais crian\u00e7as grandes e adultos e geralmente o corpo n\u00e3o fica quente.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [
+    "claudio"
+  ], 
+  "image": "d20df2d9e35a44c39f014b3890f97067", 
+  "published": null, 
+  "position": 22, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "prevencao-e-tratamento-da-malaria", 
+  "uuid": "10182350ae0b4c78bf638620a31bf961"
+}

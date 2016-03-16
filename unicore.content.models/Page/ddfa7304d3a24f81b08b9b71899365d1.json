@@ -1,0 +1,33 @@
+{
+  "subtitle": "", 
+  "description": "Conselhos sobre a viol\u00eancia f\u00edsica contra as crian\u00e7as.", 
+  "language": "por_PT", 
+  "title": "Mensagens-chave sobre as viol\u00eancia f\u00edsica", 
+  "primary_category": "d12528a724ed4202b25cc908b483a31c", 
+  "created_at": "2015-09-22T12:32:23+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-09T12:23:58.977309+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "4dc39cc30ef14ff2a56ae9adaf880267"
+  ], 
+  "id": null, 
+  "content": " - As crian\u00e7as devem ser protegidas de todas as formas de viol\u00eancia e abuso.\r\n - Bater n\u00e3o \u00e9 uma forma de educar a crian\u00e7a. Educar consiste em conversar, explicar e aconselhar a crian\u00e7a. Quem ama cuida e n\u00e3o bate.  \r\n - A viol\u00eancia f\u00edsica deve ser abolida porque constitui uma viola\u00e7\u00e3o aos direitos das crian\u00e7as, ao respeito pela sua integridade f\u00edsica, \u00e0 sua dignidade humana e \u00e0 protec\u00e7\u00e3o.\r\n - A viol\u00eancia f\u00edsica pode p\u00f4r em risco o desenvolvimento da crian\u00e7a e pode causar danos f\u00edsicos e traumas graves \u00e0s crian\u00e7as, podendo levar \u00e0 morte.\r\n\r\n**Pr\u00e1ticas que devem ser mudadas**\r\n\r\n - Muitos pais e m\u00e3es acreditam que ao bater nos seus filhos est\u00e3o a educar.  \r\n\r\n - Muitos professores acreditam que as puni\u00e7\u00f5es f\u00edsicas ajudam o aluno no aprendizado.  \r\n\r\n - Muitos pais pensam que a crian\u00e7a n\u00e3o tem problema em ser espancada porque aceita calada.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [
+    "claudio"
+  ], 
+  "image": "a0d87ea8e1b54f3e8094af52b9f94e14", 
+  "published": null, 
+  "position": 25, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mensagens-chave-sobre-violencia-fisica", 
+  "uuid": "ddfa7304d3a24f81b08b9b71899365d1"
+}

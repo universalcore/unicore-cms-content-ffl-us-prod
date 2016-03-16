@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "Moyens de pr\u00e9venir et soigner la diarrh\u00e9e", 
+  "language": "fre_FR", 
+  "title": "Comment \u00e9viter la diarrh\u00e9e", 
+  "primary_category": "be4c0cd6e87e407db79d752120f43bba", 
+  "created_at": "2015-09-05T10:14:34+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-17T12:21:33.974812+00:00", 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "da2edcf1ef3741d08ea353ad39ca620e"
+  ], 
+  "id": null, 
+  "content": "**De par le monde, la diarrh\u00e9e est la deuxi\u00e8me cause de d\u00e9c\u00e8s d\u2019enfants de moins de 5 ans, apr\u00e8s la pneumonie.**\r\n\r\nLa diarrh\u00e9e est g\u00e9n\u00e9ralement un sympt\u00f4me d\u2019infection intestinale. L\u2019infection se propage \u00e0 l\u2019aide d\u2019aliments ou d\u2019eau de boisson contamin\u00e9s, ou d\u2019une personne \u00e0 l\u2019autre, lorsque l\u2019hygi\u00e8ne fait d\u00e9faut. L\u2019eau contamin\u00e9e par des mati\u00e8res f\u00e9cales, provenant par exemple, des \u00e9gouts, des fosses septiques et des latrines, pose particuli\u00e8rement probl\u00e8me.\r\n\r\nLes enfants courent davantage de risques que les adultes de succomber \u00e0 la diarrh\u00e9e car ils se d\u00e9shydratent et souffrent de malnutrition plus rapidement.\r\n \r\n**Moyens de pr\u00e9venir et soigner la diarrh\u00e9e**\r\n\r\n1.     **La diarrh\u00e9e tue l\u2019enfant en faisant perdre beaucoup d\u2019eau \u00e0 son corps, ce qui provoque la d\u00e9shydratation.** D\u00e8s le d\u00e9but de la diarrh\u00e9e, il est essentiel de donner \u00e0 l\u2019enfant beaucoup plus \u00e0 boire que d\u2019habitude, ainsi que des sels de r\u00e9hydratation orale (SRO).  Les SRO sont un m\u00e9lange d\u2019eau propre, de sel et de sucre.\r\n\r\n2.     **La vie d\u2019un enfant est en danger s\u2019il a plusieurs selles liquides en l\u2019espace d\u2019une heure ou s\u2019il y a du sang dans ses selles.** Il faut alors imm\u00e9diatement solliciter l\u2019aide d\u2019un agent de sant\u00e9 qualifi\u00e9.\r\n\r\n3.     **L\u2019allaitement exclusivement au sein pendant les 6 premiers mois de la vie et la poursuite de l\u2019allaitement maternel apr\u00e8s l\u2019\u00e2ge de 6 mois peuvent r\u00e9duire les risques associ\u00e9s \u00e0 la diarrh\u00e9e.** La vaccination contre le rotavirus (si recommand\u00e9e et disponible) fait reculer le nombre de d\u00e9c\u00e8s dus \u00e0 la diarrh\u00e9e provoqu\u00e9s par ce virus. Les suppl\u00e9ments en vitamine A et en zinc peuvent r\u00e9duire le risque de diarrh\u00e9e.\r\n\r\n4.     **Un enfant qui a la diarrh\u00e9e doit continuer \u00e0 s\u2019alimenter r\u00e9guli\u00e8rement.** Pendant sa convalescence, il faut proposer davantage de nourriture \u00e0 l\u2019enfant qu\u2019\u00e0 l\u2019accoutum\u00e9e, car il doit remplacer l\u2019\u00e9nergie et la nourriture perdues \u00e0 cause de la maladie.\r\n\r\n5.     **Il faut administrer une solution de sels de r\u00e9hydratation orale (SRO) \u00e0 l\u2019enfant qui souffre de diarrh\u00e9e et un suppl\u00e9ment quotidien en zinc.**\r\n\r\n6.     **Pour \u00e9viter la diarrh\u00e9e, toutes les selles, y compris celles des nourrissons et des jeunes enfants, doivent \u00eatre jet\u00e9es dans des latrines ou des toilettes, ou \u00eatre enterr\u00e9es.**\r\n\r\n7.     **On peut se prot\u00e9ger contre la diarrh\u00e9e en pratiquant une bonne hygi\u00e8ne et en consommant de l\u2019eau salubre.** Il faut se laver soigneusement les mains \u00e0 l\u2019eau et au savon ou utiliser un substitut, comme l\u2019eau et la cendre, apr\u00e8s \u00eatre all\u00e9 aux toilettes et apr\u00e8s tout contact avec les selles, avant de toucher \u00e0 la nourriture ou de donner \u00e0 manger aux enfants\r\n\r\nArticle suivant :", 
+  "source": "7c2ca1138a834fcba88bf4c6f6e15946", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "47d02127a1f14927886aca1f3d8703b2", 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-eviter-la-diarrhee", 
+  "uuid": "efe602fffbef4159adcba466de8d6c4b"
+}
