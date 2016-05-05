@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "this is a test description", 
+  "language": "eng_GB", 
+  "title": "test post is created easily", 
+  "primary_category": "170ae8cb69134f96b53da2de47db6c68", 
+  "created_at": "2016-05-05T15:00:32.194524+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-05-05T15:00:32.194800+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Diarrhoea is usually a symptom of an intestinal infection. Infection is spread through contaminated food or drinking water**, or from person-to-person as a result of poor hygiene. Water contaminated with faeces, for example, from sewage, septic tanks and latrines, is of particular concern. Children are more likely than adults to die from diarrhoea *because they become* dehydrated and malnourished more quickly.\r\n\r\n- Democrats close to Clinton and the man who could become a top surrogate -- President Barack Obama -- insist they won't pressure the Vermont senator to leave. That reluctance is based on fear inside the Democratic establishment that such a move would make it more difficult to unite the party later this year.\r\n\r\nwant to find out more ? go and visit [us][1] \r\n\r\n\r\n  [1]: https://www.unicefusa.org", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": "30f85834f46f471b856c9ad69a390bbf", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "test-post", 
+  "uuid": "223085a6478c4a8287c6cd91448e4ff4"
+}
